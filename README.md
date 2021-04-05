@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src ="https://media.discordapp.net/attachments/730113760165101568/828545333062926388/unknown.png?width=1019&height=158"/>
+
 # Hello I'm Kurt Denzel ~ Front End Developer
 
 - 👋 Hi, I’m Kurt Denzel and I'm a College Freshmen from University of the East Caloocan
