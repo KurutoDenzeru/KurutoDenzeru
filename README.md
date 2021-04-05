@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Kurt Denzel and I'm a College Freshmen from University of the East Caloocan
 - 👀 I’m interested in Web Development/Full Stack Development
-- 🌱 I’m currently learning Java,Python,HTML,CSS,Javascript
+- 🌱 I’m currently learning Full Stack Development 😆
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Twitter: @DnzlKrt22
 
@@ -14,9 +14,7 @@
 <br />
 
 ### ⚡ GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtDenzel&show_icons=true&hide_border=true&theme=radical" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtDenzel&show_icons=true&hide_border=true&theme=radical" />
 
 ### ⚡Programming, Markup, Scripting Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
