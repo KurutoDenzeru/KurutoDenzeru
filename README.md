@@ -16,6 +16,8 @@
 ### ⚡ GitHub Stats
 <img align="left" alt="Kurutos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KurtDenzel&show_icons=true&hide_border=true&theme=radical"/>
 
+
+<br />
 ### ⚡Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
