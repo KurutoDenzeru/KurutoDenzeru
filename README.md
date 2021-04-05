@@ -18,8 +18,8 @@
 
 <br />
 
-###⚡Programming, Markup, Scripting Languages
-(https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡Programming, Markup, Scripting Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDenzel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 KurtDenzel/KurtDenzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
