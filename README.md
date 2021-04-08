@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kurt Denzel</h1>
 <h3 align="center">Front End Developer</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DnzlKrt22?color=%230da2ff&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge) 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Subscribe%20on%20my%20Channel&logo=Youtube&logoColor=Tomato&style=for-the-badge)
-
 - 👋 I'm a College Freshmen from University of the East Caloocan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development 😆
@@ -13,7 +10,8 @@
 - 📫 How to reach me ... Twitter: @DnzlKrt22
 
 ## Connect with me:
-<p align="left"> <a href="https://twitter.com/dnzlkrt22" target="blank"><img src="https://img.shields.io/twitter/follow/dnzlkrt22?logo=twitter&style=for-the-badge" alt="dnzlkrt22" /></a> </p>
+![Twitter Follow](https://img.shields.io/twitter/follow/DnzlKrt22?color=%230da2ff&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge) 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Subscribe%20on%20my%20Channel&logo=Youtube&logoColor=Tomato&style=for-the-badge)
 
 
 <br />
@@ -23,6 +21,8 @@
 
 ## 💓 Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtdenzel&show_icons=true&theme=dark&locale=en&layout=compact" alt="kurtdenzel" /></p>
+
+<br />
 
 ## :atom: Markup & Scripting Languages:
 <!---->
