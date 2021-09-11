@@ -7,10 +7,10 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development 😆
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Twitter: @DnzlKrt22
+- 📫 How to reach me ... Twitter: @krtclcdy22
 
 ## Connect with me:
-![Twitter Follow](https://img.shields.io/twitter/follow/DnzlKrt22?color=%230da2ff&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge) 
+![Twitter Follow](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Subscribe%20on%20my%20Channel&logo=Youtube&logoColor=Tomato&style=for-the-badge)
 
 
