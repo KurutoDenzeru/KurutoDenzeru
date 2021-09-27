@@ -1,17 +1,17 @@
-<img align="center" alt="Banner" src ="https://media.discordapp.net/attachments/730113760165101568/828545333062926388/unknown.png?width=1019&height=158"/>
+<img align="center" alt="Banner" src ="https://cdn.discordapp.com/attachments/859005726168842261/892081943364128780/Youtube_Banner.png?width=1019&height=158"/>
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 👋 I'm a College Freshmen from University of the East Caloocan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development 😆
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Twitter: @krtclcdy22
+-🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
+-🌏 I’m currently studying a Major in Web Development Course.
 
-## Connect with me:
-![Twitter Follow](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge) 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Subscribe%20on%20my%20Channel&logo=Youtube&logoColor=Tomato&style=for-the-badge)
+## Social Media Connections:
+![Twitter Follow](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
+
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
+
+![Github Followers](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github &logo=Github&style=for-the-badge)
 
 
 ## ⚡ GitHub Stats
