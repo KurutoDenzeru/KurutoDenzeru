@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Kurt Denzel</h1>
 <h3 align="center">Front End Developer</h3>
 
--🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
--🌏 I’m currently studying a Major in Web Development Course.
+- 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
+- 🌏 I’m currently studying a Major in Web Development Course.
 
 ## Social Media Connections:
-![Twitter Follow](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
-
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
-
-![Github Followers](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github &logo=Github&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
+![Github](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github&logo=Github&style=for-the-badge)
 
 
 ## ⚡ GitHub Stats
