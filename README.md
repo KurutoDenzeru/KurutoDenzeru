@@ -1,4 +1,5 @@
-<img align="center" alt="Banner" src ="https://cdn.discordapp.com/attachments/859005726168842261/892086046295203960/Slimmed_KD.png?width=1019&height=158"/>
+<img align="center" alt="Banner" src ="https://cdn.discordapp.com/attachments/746659175685423196/986283160390230046/Patreon_Cover_PhotoKD.png"/>
+
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel</h1>
 <h3 align="center">Front End Developer</h3>
