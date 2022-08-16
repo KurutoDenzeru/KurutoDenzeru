@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Web & Applications Developer</h3>
 
 - 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
 - 🌏 I’m currently studying a Major in Web Development Course.
