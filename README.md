@@ -5,6 +5,7 @@
 <h3 align="center">Web & Applications Developer</h3>
 
 - 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
+- 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Data Science Associate of Google Developers Student Clubs UE Caloocan.
 - 🌏 I’m currently studying a Major in Web Development Course.
 
 ## Social Media Connections:
