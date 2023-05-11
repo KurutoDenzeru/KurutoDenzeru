@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kurt Denzel </h1>
 <h3 align="center">Web & Applications Developer</h3>
 
+Uni-Wide & Recognized Student Organization(s)
 - 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Data Science Associate of Google Developers Student Clubs UE Caloocan. (GDSC)
 - 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
 - 🌏 I’m currently studying a Major in Web Development Course.
