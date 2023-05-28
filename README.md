@@ -63,6 +63,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="Git Bash" width="26px" src="https://gitforwindows.org/img/gwindows_logo.png" />
