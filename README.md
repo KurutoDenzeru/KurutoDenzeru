@@ -5,7 +5,7 @@
 <h3 align="center">Web & Applications Developer</h3>
 
 Campus-Wide & Recognized Student Organization(s)
-- 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Data Science Associate of Google Developers Student Clubs UE Caloocan. (GDSC)
+- 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Associate Mobile Development Lead of Google Developers Student Clubs UE Caloocan. (GDSC)
 - 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
 - 🌏 I’m currently studying a Major in Web Development Course.
 
