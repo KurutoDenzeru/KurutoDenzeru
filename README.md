@@ -4,24 +4,27 @@
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel </h1>
 <h3 align="center">Web & Applications Developer</h3>
+<br />
 
 Campus-Wide & Recognized Student Organization(s)
 - 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Associate Mobile Development Lead of Google Developers Student Clubs UE Caloocan. (GDSC)
 - 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
 - 🌏 I’m currently studying a Major in Web Development Course.
+<br />
 
 ## Social Media Connections:
 
 ![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
 ![Github](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github&logo=Github&style=for-the-badge)
-</p>
+<br />
 
 ## ⚡ GitHub Stats
-<p align=center>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KurutoDenzeru&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br /> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kurtdenzel&show_icons=true&theme=radical&locale=en"/>
+<br /> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtdenzel&show_icons=true&theme=radical&locale=en&layout=compact"/>
-</p>
 
 <!--Line Break-->
 <br />
@@ -42,7 +45,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-3521631-2945075.png"/>
 <img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"/>
 
-
+<br />
 <br />
 
 <!--Programming Languages-->
@@ -56,7 +59,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/480/npm.png"/>
 
-<br />
+<br /> <br />
 
 <!-- Server Side -->
 <h1 align="left">🌌 Server & Client Side</h1>
@@ -72,7 +75,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left" alt="PHPMyAdmin" width="26px" src="https://miro.medium.com/v2/resize:fit:1400/1*5Hnnv0awfSv0BGcq1C522w.png"/>
 
-<br />
+<br /> <br />
 
 <!--Software Tools-->
 <h1 align="left">🧰 Software Tools</h1>
