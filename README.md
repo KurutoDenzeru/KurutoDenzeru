@@ -1,5 +1,6 @@
+<p align=center>
 <img align="center" alt="Banner" src ="https://cdn.discordapp.com/attachments/746659175685423196/986283160390230046/Patreon_Cover_PhotoKD.png"/>
-
+</p>
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel </h1>
 <h3 align="center">Web & Applications Developer</h3>
@@ -10,15 +11,17 @@ Campus-Wide & Recognized Student Organization(s)
 - 🌏 I’m currently studying a Major in Web Development Course.
 
 ## Social Media Connections:
+
 ![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
 ![Github](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github&logo=Github&style=for-the-badge)
-
+</p>
 
 ## ⚡ GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurtdenzel&show_icons=true&theme=dark&locale=en" alt="kurtdenzel" /></p>
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtdenzel&show_icons=true&theme=dark&locale=en&layout=compact" alt="kurtdenzel" /></p>
+<p align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurtdenzel&show_icons=true&theme=radical&locale=en"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtdenzel&show_icons=true&theme=radical&locale=en&layout=compact"/>
+</p>
 
 <!--Line Break-->
 <br />
