@@ -58,6 +58,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>  
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png"/> 
+<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png"/> 
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/480/npm.png"/>
 
