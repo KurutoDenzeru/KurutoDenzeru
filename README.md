@@ -16,7 +16,7 @@ Campus-Wide & Recognized Student Organization(s)
 
 ![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
-![Github](https://img.shields.io/github/followers/KurtDenzel?color=%23778899&label=Github&logo=Github&style=for-the-badge)
+![Github](https://img.shields.io/github/followers/KurutoDenzeru?color=%23778899&label=Github&logo=Github&style=for-the-badge)
 <br />
 
 ## ⚡ GitHub Stats
