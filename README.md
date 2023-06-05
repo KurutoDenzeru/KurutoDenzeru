@@ -28,7 +28,7 @@
 - Associate Staff (Aug 2021 - Dec 2022)
 - Member (Aug 2020 - May 2023)
 
-### Business ManagerBusiness Manager
+### Business Manager
 - Lakas Mag-aaral ng Pamantasan ng Silangan (Aug 2023 - May 2023)
 
 ### Member 
