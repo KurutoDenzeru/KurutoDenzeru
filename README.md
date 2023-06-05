@@ -3,13 +3,35 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kurt Denzel </h1>
-<h3 align="center">Web & Applications Developer</h3>
+<h3 align="center">Web & Applications Developer | SEO Specialists | Penetration Tester</h3>
 <br />
 
-Campus-Wide & Recognized Student Organization(s)
-- 🎢 Creatives/Art Director of League of Information Technology Students (LITs) & Associate Mobile Development Lead of Google Developers Student Clubs UE Caloocan. (GDSC)
-- 🎓 I'm an Undergraduate College Student from the University of the East – Caloocan.
-- 🌏 I’m currently studying a Major in Web Development Course.
+Highly motivated and talented college student with a strong passion for web development. As a dedicated working student, I have successfully balanced academic commitments with practical experience in the field. Equipped with a solid foundation in programming languages and frameworks, I am adept at creating visually appealing and user-friendly websites. With excellent problem-solving skills and a strong attention to detail, I strive to deliver innovative and efficient solutions for clients. Aspiring to contribute to a dynamic team and apply my skills to create impactful digital experiences.
+
+<br />
+
+## 💼 Experiences / Organization(s)
+### Data Analyst
+- CES Taxfirm (Jan 2023 - Present)
+
+### Google Developer Student Clubs UE Caloocan
+- Web Development Lead (Aug 2023 - May 2024)
+- Associate Mobile Development Lead (Jan 2023 - May 2023)
+
+### League of Information Technology Students
+- Bussiness Manager (Aug 2023 - May 2024)
+- Creatives / Arts Director (Jan 2023 - May 2023)
+- Associate Staff (Aug 2021 - Dec 2022)
+- Member (Aug 2020 - May 2023)
+
+### Business ManagerBusiness Manager
+- Lakas Mag-aaral ng Pamantasan ng Silangan (Aug 2023 - May 2023)
+
+### Member 
+- Association of Computer Studies Students (Aug 2021 - May 2024)
+
+### Data Operations Coordinator 
+- MJCT Management & Services (Mar 2018 - Jun 2019)
 <br />
 
 ## Social Media Connections:
