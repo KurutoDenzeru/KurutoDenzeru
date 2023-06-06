@@ -14,7 +14,7 @@
 
 <br />
 
-## 📎 Social Media Connections:
+## 🕹 Social Media Connections:
 
 ![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
