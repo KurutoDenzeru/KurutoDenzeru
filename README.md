@@ -14,30 +14,6 @@
 
 <br />
 
-## 💼 Experiences / Organization(s)
-### Data Analyst
-- CES Taxfirm (Jan 2023 - Present)
-
-### Google Developer Student Clubs UE Caloocan
-- Web Development Lead (Aug 2023 - May 2024)
-- Associate Mobile Development Lead (Jan 2023 - May 2023)
-
-### League of Information Technology Students
-- Bussiness Manager (Aug 2023 - May 2024)
-- Creatives / Arts Director (Jan 2023 - May 2023)
-- Associate Staff (Aug 2021 - Dec 2022)
-- Member (Aug 2020 - May 2023)
-
-### Business Manager
-- Lakas Mag-aaral ng Pamantasan ng Silangan (Aug 2023 - May 2023)
-
-### Member 
-- Association of Computer Studies Students (Aug 2021 - May 2024)
-
-### Data Operations Coordinator 
-- MJCT Management & Services (Mar 2018 - Jun 2019)
-<br />
-
 ## 📎 Social Media Connections:
 
 ![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
