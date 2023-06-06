@@ -89,13 +89,13 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png"/>
+<img align="left" alt="Office 365" width="26px" src="https://seeklogo.com/images/M/microsoft-365-2022-logo-7B23759A49-seeklogo.com.png"/>
 <img align="left" alt="OpenAI" width="26px" src="https://diviengine.com/wp-content/uploads/2023/01/ChatGPT-Logooptimized-610x610.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
 <img align="left" alt="Sublime" width="26px" src="https://i.pinimg.com/originals/24/b3/c6/24b3c6246660d94a1434151a87339438.png"/>
 <img align="left" alt="Aesprite" width="26px" src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 <img align="left" alt="Adobe Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/2500px-Creative_Cloud.svg.png"/>
-<img align="left" alt="Office 365" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"/>
 <img align="left" alt="Jupiter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
 
 
