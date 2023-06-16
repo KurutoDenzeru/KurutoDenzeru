@@ -76,6 +76,9 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Git Bash" width="26px" src="https://gitforwindows.org/img/gwindows_logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" />
 <img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png"/>
+<img align="left" alt="Heroku" width="26px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
+<img align="left" alt="Vercel" width="26px" src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" />
+<img align="left" alt="Render" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
 <img align="left" alt="Cloudflare" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
