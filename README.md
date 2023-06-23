@@ -1,7 +1,3 @@
-<p align=center>
-<img align="center" alt="Banner" src ="https://cdn.discordapp.com/attachments/746659175685423196/986283160390230046/Patreon_Cover_PhotoKD.png"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Kurt Denzel </h1>
 <h3 align="center">Web & Applications Developer | SEO Specialists | Penetration Tester</h3>
 <br />
