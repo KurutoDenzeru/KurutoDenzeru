@@ -2,10 +2,11 @@
 <h3 align="center">Web & Applications Developer | SEO Specialists | Penetration Tester</h3>
 <br />
 
+## ✨ Summary:
 <p align=justify>
-⚡ Highly motivated and talented college student with a strong passion for web development. As a dedicated working student, I have successfully balanced academic commitments with practical experience in the field. Equipped with a solid foundation in programming languages and frameworks, 
+Highly motivated and talented college student with a strong passion for web development. As a dedicated working student, I have successfully balanced academic commitments with practical experience in the field. Equipped with a solid foundation in programming languages and frameworks, 
   
-✨ I am adept at creating visually appealing and user-friendly websites. With excellent problem-solving skills and a strong attention to detail, I strive to deliver innovative and efficient solutions for clients. Aspiring to contribute to a dynamic team and apply my skills to create impactful digital experiences.
+I am adept at creating visually appealing and user-friendly websites. With excellent problem-solving skills and a strong attention to detail, I strive to deliver innovative and efficient solutions for clients. Aspiring to contribute to a dynamic team and apply my skills to create impactful digital experiences.
 </p>
 
 <br />
