@@ -31,6 +31,9 @@ I am adept at creating visually appealing and user-friendly websites. With excel
 <!--Line Break-->
 
 <h1 align="left">🧭 Frameworks:</h1>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+
+<br />
 
 
 <!--Markup & Scripting Languages:-->
@@ -43,7 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
 <img align="left" alt="Ruby" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-3629029-3030386.png"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-3521631-2945075.png"/>
 <img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"/>
