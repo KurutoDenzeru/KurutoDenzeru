@@ -2,14 +2,6 @@
 <h3 align="center">Web & Applications Developer | SEO Specialists | Penetration Tester</h3>
 <br />
 
-## 🕹 Social Media Connections:
-
-![Twitter](https://img.shields.io/twitter/follow/krtclcdy22?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCN1D6EddpgDjLDrkO9k8gNg?label=Youtube&logo=Youtube&logoColor=Tomato&style=for-the-badge)
-![Github](https://img.shields.io/github/followers/KurutoDenzeru?color=%23778899&label=Github&logo=Github&style=for-the-badge)
-
-<br />
-
 ## ⚡ GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=KurutoDenzeru&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br /> <br />
