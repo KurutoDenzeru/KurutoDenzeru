@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kurt Calacday 🚀️ </h1>
-<h2 align="center">Web & Applications Developer | SEO Specialists | Microsoft Student Ambassador </h2>
+<h2 align="center">Web & Applications Developer | SEO Specialists | DataCamp Scholar | Microsoft Student Ambassador </h2>
 
 <br />
 
