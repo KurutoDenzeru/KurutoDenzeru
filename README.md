@@ -1,6 +1,7 @@
 <h1 align="center">👋 Greetings, I'm Kurt Calacday 🚀️ </h1>
 <h2 align="center">Web & Applications Developer | SEO Specialists | Datacamp Scholar | Microsoft Student Ambassador </h2>
 
+
 <br />
 
 ## ⚡ GitHub Stats
