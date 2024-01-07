@@ -7,8 +7,6 @@
 ## ⚡ GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=KurutoDenzeru&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br /> <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KurutoDenzeru&show_icons=true&theme=radical&locale=en"/>
-<br /> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurutoDenzeru&show_icons=true&theme=radical&locale=en&layout=compact"/>
 
 <!--Line Break-->
