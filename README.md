@@ -1,7 +1,6 @@
 <h1 align="center">👋 Greetings, I'm Kurt Calacday 🚀️ </h1>
 <h2 align="center">Web & Applications Developer | SEO Specialists | Datacamp Scholar | Microsoft Student Ambassador </h2>
 
-
 <br />
 
 ## ⚡ GitHub Stats
@@ -17,7 +16,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 
 <br />
-
 
 <!--Markup & Scripting Languages:-->
 <h1 align="left">🧭 Markup & Scripting Languages:</h1>
