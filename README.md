@@ -1,6 +1,7 @@
 <h1 align="center">👋 Greetings, I'm Kurt Calacday 🚀️ </h1>
 <h2 align="center"> Web Development Lead at GDSC UEC | Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h2>
 
+
 <br />
 
 ## ⚡ GitHub Stats
