@@ -41,7 +41,6 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>  
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png"/> 
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/480/npm.png"/>
 
@@ -56,7 +55,6 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Git Bash" width="26px" src="https://gitforwindows.org/img/gwindows_logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" />
 <img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png"/>
-<img align="left" alt="Heroku" width="26px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
 <img align="left" alt="Vercel" width="26px" src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" />
 <img align="left" alt="Render" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
@@ -71,12 +69,8 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Renpy" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png"/>
 <img align="left" alt="Netbeans Apache IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/>
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png"/>
-<img align="left" alt="Office 365" width="26px" src="https://seeklogo.com/images/M/microsoft-365-2022-logo-7B23759A49-seeklogo.com.png"/>
 <img align="left" alt="OpenAI" width="26px" src="https://diviengine.com/wp-content/uploads/2023/01/ChatGPT-Logooptimized-610x610.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
-<img align="left" alt="Sublime" width="26px" src="https://i.pinimg.com/originals/24/b3/c6/24b3c6246660d94a1434151a87339438.png"/>
 <img align="left" alt="Aesprite" width="26px" src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 <img align="left" alt="Adobe Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/2500px-Creative_Cloud.svg.png"/>
