@@ -67,13 +67,11 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <!--Software Tools-->
 <h1 align="left">🧰 Software Tools</h1>
 <img align="left" alt="Renpy" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png"/>
-<img align="left" alt="Netbeans Apache IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/>
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img align="left" alt="OpenAI" width="26px" src="https://diviengine.com/wp-content/uploads/2023/01/ChatGPT-Logooptimized-610x610.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
 <img align="left" alt="Aesprite" width="26px" src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
-<img align="left" alt="Adobe Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/2500px-Creative_Cloud.svg.png"/>
 <img align="left" alt="Jupiter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
 
 <!---
