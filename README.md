@@ -3,16 +3,6 @@
 
 <br />
 
-## ⚡ GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=KurutoDenzeru&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br /> <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurutoDenzeru&show_icons=true&theme=radical&locale=en&layout=compact"/>
-
-<!--Line Break-->
-<br />
-
-<br />
-
 <!--Markup & Scripting Languages:-->
 <h1 align="left">🧭 Markup & Scripting Languages:</h1>
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
