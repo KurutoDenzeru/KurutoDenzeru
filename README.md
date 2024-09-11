@@ -71,6 +71,8 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" height="25" alt="xampp logo" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="25" alt="apache logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25" alt="dotnetcore logo" />
