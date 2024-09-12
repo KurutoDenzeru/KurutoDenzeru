@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Greetings, I'm Kurt Calacday 🚀️ </h1>
 <h2 align="center">  Software Engineer / Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h2>
 
@@ -19,9 +18,9 @@
 ## Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="java logo" />
-    <img width="6" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo" />
-      <img width="6" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo" />
@@ -40,6 +39,8 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" height="25" alt="sass logo" />  
+  <img width="6" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo" />
@@ -52,17 +53,23 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="25" alt="vuejs logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=black&style=for-the-badge" height="25" alt="wordpress logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?logo=awsamplify&logoColor=black&style=for-the-badge" height="25" alt="awsamplify logo" />  
+  <img width="6" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" height="25" alt="pugjs logo" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="25" alt="storybook logo" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" height="25" alt="shadcnui logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/remix-%2523000.svg?style=for-the-badge&logo=remix&logoColor=white" height="25" alt="remix logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" height="25" alt="pugjs logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="25" alt="storybook logo" />
 </div>
 
 ## Backend Development
@@ -80,15 +87,29 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" alt="laravel logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge" height="25" alt="cakephp logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="numpy logo" />
 </div>
 
 ## Databases
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=yellow" height="25" alt="phpmyadmin logo" />  
+  <img width="6" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="25" alt="sqlite logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=yellow" height="25" alt="dynamodb logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black" height="25" alt="dynamodb logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" height="25" alt="amazons3 logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge" height="25" alt="awslambdalogo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo" />
   <img width="6" />
@@ -121,9 +142,11 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="vercel logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="25" alt="jira logo" />  
+  <img width="6" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=yellow" height="25" alt="dynamodb logo" />
+  <img src="https://img.shields.io/badge/amazon cognito-DD344C?logo=amazoncognito&logoColor=white&style=for-the-badge" height="25" alt="amazoncognito" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="25" alt="azure logo" />
   <img width="6" />
@@ -136,18 +159,37 @@
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="25" alt="nginx logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="25" alt="godot logo" />
-</div>
-
-## Development Environments
-<div align="left">
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Ren'py-FF7F7F?logo=renpy&logoColor=white&style=for-the-badge" height="25" alt="renpy logo" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="25" alt="visualstudio logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white&style=for-the-badge" height="25" alt="openai logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="25" alt="anthropic logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" height="25" alt="perplexity logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/github copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge" height="25" alt="githubcopilot logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Google Gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" height="25" alt="googlegemini logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/hugging face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="25" alt="huggingface logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge" height="25" alt="obsidian logo" />  
 </div>
 
 ## Design & Prototyping
 <div align="left">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" height="25" alt="figma logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/photopea-18A497?logo=photopea&logoColor=white&style=for-the-badge" height="25" alt="photopea logo" />  
+  <img width="6" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white&style=for-the-badge" height="25" alt="excalidraw logo" />  
   <img width="6" />
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" height="25" alt="aesprite logo" />
   <img width="6" />
@@ -155,12 +197,20 @@
 </div>
 
 ## Testing & Debugging
-<div align="left">
-  <img src="https://img.shields.io/badge/cypress-69D3A7?logo=cypress&logoColor=black&style=for-the-badge" height="25" alt="cypress logo" />  
+<div align="left">    
+  <img src="https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white&style=for-the-badge" height="25" alt="biome logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/cypress-69D3A7?logo=cypress&logoColor=black&style=for-the-badge" height="25" alt="cypress logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge" height="25" alt="prettier logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="25" alt="jest logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/lighthouse-F44B21?logo=lighthouse&logoColor=white&style=for-the-badge" height="25" alt="lighthouse logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/pagespeed insights-4285F4?logo=pagespeedinsights&logoColor=white&style=for-the-badge" height="25" alt="pagespeedinsights logo" />  
 </div>
 
 ## System & Configuration
@@ -169,7 +219,11 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="25" alt="markdown logo" />
+  <img src="https://img.shields.io/badge/ZSH-F15A24?logo=zsh&logoColor=white&style=for-the-badge" height="25" alt="zsh logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="25" alt="markdown logo" /> 
+  <img width="6" />
+  <img src="https://img.shields.io/badge/dot env-ECD53F?logo=dotenv&logoColor=black&style=for-the-badge" height="25" alt="dotenv logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black&style=for-the-badge" height="25" alt="svg logo" />
   <img width="6" />
