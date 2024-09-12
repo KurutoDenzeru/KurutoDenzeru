@@ -195,9 +195,13 @@
 <div align="left">    
   <img src="https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white&style=for-the-badge" height="30" alt="biome logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge" height="30" alt="prettier logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/cypress-69D3A7?logo=cypress&logoColor=black&style=for-the-badge" height="30" alt="cypress logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge" height="30" alt="prettier logo" />
+  <img src="https://img.shields.io/badge/Dev Tools-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="30" alt="googlechrome logo" />  
   <img width="6" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo" />
   <img width="6" />
