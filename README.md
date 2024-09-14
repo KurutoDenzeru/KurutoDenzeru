@@ -222,7 +222,7 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo" /> 
   <img width="6" />
-  <img src="https://img.shields.io/badge/dot env-ECD53F?logo=dotenv&logoColor=black&style=for-the-badge" height="30" alt="dotenv logo" />
+  <img src="https://img.shields.io/badge/.env-ECD53F?logo=dotenv&logoColor=black&style=for-the-badge" height="30" alt="dotenv logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black&style=for-the-badge" height="30" alt="svg logo" />
   <img width="6" />
