@@ -143,6 +143,10 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="vercel logo" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="30" alt="cloudflare logo" />  
+  <img width="6" />
+  <img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white" height="30" alt="render logo" />    
+  <img width="6" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo" />  
   <img width="6" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo" />
