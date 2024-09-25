@@ -9,7 +9,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&exclude_days=Sun%2CSa&card_width=500&card_height=220" alt="GitHub Streak Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=500&card_height=220" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" />
 
 </p>
 
