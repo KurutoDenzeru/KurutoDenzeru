@@ -2,9 +2,6 @@
 <h2 align="center">  Software Engineer / Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h2>
 
 ---
-
-<img src="https://github-profile-trophy.vercel.app/?username=KurutoDenzeru&theme=radical&no-frame=false&no-bg=truea&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=220" alt="GitHub Streak Stats" />
@@ -12,8 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" />
 
 </p>
-
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=KurutoDenzeru&icon=0&color=4" alt="Visit Count" /></a>
 
 # Tech Stack
 
