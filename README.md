@@ -1,7 +1,8 @@
 <h1 align="center">👋 Greetings, I'm Kurt Calacday 🚀️ </h1>
-<h2 align="center">  Software Engineer / Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h2>
+<h3 align="center">  Software Engineer / Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h3>
 
----
+<br />
+
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=220" alt="GitHub Streak Stats" />
