@@ -45,11 +45,11 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="30" alt="nuxtjs logo" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=white&style=for-the-badge" height="30" alt="nuxtjs logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="30" alt="astro logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" height="30" alt="vuejs logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=black&style=for-the-badge" height="30" alt="wordpress logo" />  
   <img width="6" />
@@ -122,7 +122,7 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo" />  
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" height="30" alt="gitlab logo" />  
   <img width="6" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" height="30" alt="bitbucket logo" />
   <img width="6" />
@@ -134,7 +134,7 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" height="30" alt="bun logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=yellow" height="30" alt="vite logo" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="30" alt="vite logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30" alt="netlify logo" />
   <img width="6" />
@@ -150,7 +150,7 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/amazon cognito-DD344C?logo=amazoncognito&logoColor=white&style=for-the-badge" height="30" alt="amazoncognito" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo" />
   <img width="6" />
@@ -164,13 +164,15 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Ren'py-FF7F7F?logo=renpy&logoColor=white&style=for-the-badge" height="30" alt="renpy logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?logo=vsc&logoColor=white&style=for-the-badge" height="30" alt="vscode logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo" />
+  <img src="https://img.shields.io/badge/OPEN AI-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="30" alt="anthropic logo" />  
+  <img src="https://img.shields.io/badge/anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="30" alt="anthropic logo" />
+  <img width="6" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" height="30" alt="deepsek logo" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" height="30" alt="perplexity logo" />
   <img width="6" />
