@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=220" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KurutoDenzeru&theme=codeSTACKr&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=500&card_height=220" alt="GitHub Streak" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" />
 
