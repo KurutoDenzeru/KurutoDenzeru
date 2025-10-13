@@ -10,6 +10,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KurutoDenzeru&bg_color=504945&color=d4be98&line=d8a657&point=e78a4e&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=KurutoDenzeru&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true)" alt="GitHub Activity Graph" />
+
 </p>
 
 # Tech Stack
