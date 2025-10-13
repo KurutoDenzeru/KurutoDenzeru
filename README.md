@@ -10,7 +10,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" />
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KurutoDenzeru&bg_color=0d1117&color=38bdae&line=f08c2e&point=c778dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![KurutoDenzeru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KurutoDenzeru&bg_color=0a0a0a&color=f5a623&line=ff7b00&point=ffa500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
