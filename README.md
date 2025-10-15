@@ -1,6 +1,6 @@
 <h1 align="center">👋 Mabuhay, I'm Kurt Calacday (ᜃᜓᜍ᜔ᜆ᜔ ᜃᜎᜃ᜔ᜇᜌ᜔) 🚀️ </h1>
 
-<h3 align="center">  Senior Software Engineer / Web & Applications Developer | Datacamp Scholar | SEO Specialist | Student Ambassador of Microsoft </h3>
+<h3 align="center">  Senior Software Engineer / Full Stack Developer </h3>
 
 <br />
 
