@@ -6,6 +6,8 @@
 
 <p align="center">
 
+  ![](https://komarev.com/ghpvc/?username=KurutoDenzeru&style=flat-square&color=orange)
+
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=KurutoDenzeru&theme=codeSTACKr&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurutoDenzeru&border_radius=10&theme=codeSTACKr&hide_border=true&&size_weight=0.15&count_weight=0.5&layout=compact&card_width=300&card_height=220" alt="Top Languages" /> -->
