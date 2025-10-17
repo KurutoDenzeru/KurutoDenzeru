@@ -1,6 +1,6 @@
 <h1 align="center">👋 Mabuhay, I'm Kurt Calacday (ᜃᜓᜍ᜔ᜆ᜔ ᜃᜎᜃ᜔ᜇᜌ᜔) 🚀️ </h1>
 
-<h3 align="center">  Senior Software Engineer / Full Stack Developer </h3>
+<p align="center">  Senior Software Engineer / Full Stack Developer </p>
 
 <br />
 
